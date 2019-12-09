@@ -1,2 +1,2 @@
 # autotests
-stepik
+studing
